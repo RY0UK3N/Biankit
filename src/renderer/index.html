@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self' file:; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; worker-src 'self' blob: file:"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BianKit</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span id="app-title">BianKit</span>
+      </div>
+      <div class="topbar-actions">
+        <span class="local-badge" title="Seus documentos não saem do computador">
+          <span class="status-dot"></span> <span class="local-text">100% local</span>
+        </span>
+        <button class="pin-button is-pinned" id="pin-window" type="button" aria-pressed="true" title="Manter acima das outras janelas">
+          <span aria-hidden="true">●</span><span class="pin-label">Fixado</span>
+        </button>
+      </div>
+    </header>
+    <main id="app" aria-live="polite"></main>
+    <div id="toast" class="toast" role="status"></div>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

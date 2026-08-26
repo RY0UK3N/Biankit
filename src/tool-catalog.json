@@ -1,0 +1,65 @@
+[
+  {
+    "id": "merge",
+    "title": "BianKit Juntar",
+    "executable": "BianKit-Juntar",
+    "accent": "#ff6b4a",
+    "category": "pdf-core",
+    "enabled": true,
+    "description": "Combina vários PDFs na ordem escolhida."
+  },
+  {
+    "id": "organize",
+    "title": "BianKit Organizar",
+    "executable": "BianKit-Organizar",
+    "accent": "#7c5cff",
+    "category": "pdf-core",
+    "enabled": true,
+    "description": "Reordena, gira e remove páginas visualmente."
+  },
+  {
+    "id": "split",
+    "title": "BianKit Dividir",
+    "executable": "BianKit-Dividir",
+    "accent": "#19a67a",
+    "category": "pdf-core",
+    "enabled": true,
+    "description": "Separa páginas individuais ou intervalos."
+  },
+  {
+    "id": "ocr",
+    "title": "BianKit OCR",
+    "executable": "BianKit-OCR",
+    "accent": "#2878d0",
+    "category": "pdf-smart",
+    "enabled": false,
+    "description": "Transforma digitalizações em PDFs pesquisáveis."
+  },
+  {
+    "id": "rename",
+    "title": "BianKit Nomear",
+    "executable": "BianKit-Nomear",
+    "accent": "#d0649d",
+    "category": "pdf-smart",
+    "enabled": false,
+    "description": "Sugere nomes úteis a partir do conteúdo do documento."
+  },
+  {
+    "id": "smart-split",
+    "title": "BianKit Separar IA",
+    "executable": "BianKit-Separar-IA",
+    "accent": "#e08b32",
+    "category": "pdf-smart",
+    "enabled": false,
+    "description": "Identifica automaticamente documentos dentro de um PDF longo."
+  },
+  {
+    "id": "vocabulary",
+    "title": "BianKit Vocabulário",
+    "executable": "BianKit-Vocabulario",
+    "accent": "#397c68",
+    "category": "teaching",
+    "enabled": false,
+    "description": "Extrai vocabulário e exemplos de materiais de aula."
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "name": "biankit",
+  "version": "0.2.5",
+  "private": true,
+  "description": "Kit portátil da Bianka para documentos, escritório e aulas.",
+  "author": "Marcos Luciano Tagliari Junior",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RY0UK3N/Biankit.git"
+  },
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "node scripts/run-tool.mjs merge",
+    "dev:merge": "node scripts/run-tool.mjs merge",
+    "dev:organize": "node scripts/run-tool.mjs organize",
+    "dev:split": "node scripts/run-tool.mjs split",
+    "test": "node --test",
+    "icons": "node scripts/generate-icons.mjs",
+    "notices": "node scripts/generate-notices.mjs",
+    "build": "node scripts/build-all.mjs",
+    "build:organize": "node scripts/build-all.mjs organize"
+  },
+  "dependencies": {
+    "pdf-lib": "1.17.1",
+    "pdfjs-dist": "5.4.149"
+  },
+  "devDependencies": {
+    "electron": "37.4.0",
+    "electron-builder": "26.0.12"
+  },
+  "allowScripts": {
+    "electron@37.4.0": true,
+    "electron-winstaller@5.4.0": true
+  }
+}

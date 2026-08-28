@@ -115,7 +115,7 @@ Principais diretórios:
 
 O projeto utiliza **JavaScript**, **HTML** e **CSS**, com **Electron** para os aplicativos portáteis, **pdf-lib** para manipular documentos e **PDF.js** para exibir as páginas. Os códigos-fonte estão organizados em [`src/`](src/), [`scripts/`](scripts/) e [`test/`](test/).
 
-A revisão desta versão contou com **assistência de IA (Codex/OpenAI)**, acompanhados de revisão humana e testes automatizados das operações principais.
+A revisão do projeto conta com **assistência de IA (Codex/OpenAI)**, acompanhados de revisão humana e testes automatizados das operações principais.
 
 ---
 

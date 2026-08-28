@@ -4,7 +4,7 @@
   "private": true,
   "description": "Kit portátil da Bianka para documentos, escritório e aulas.",
   "author": "Marcos Luciano Tagliari Junior",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/RY0UK3N/Biankit.git"

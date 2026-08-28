@@ -62,14 +62,13 @@ O BianKit foi pensado para ficar ao lado do Explorer enquanto os documentos são
 
 Os três aplicativos possuem ícones próprios e testes para as operações principais. Como os executáveis ainda não têm assinatura digital de uma autoridade certificadora, o Windows pode exibir um aviso de segurança ao abri-los pela primeira vez.
 
-## Licença, uso e futuro comercial
+## Licença
 
-O BianKit tem código-fonte público, mas não permite que terceiros simplesmente redistribuam ou revendam a suíte:
+O BianKit é disponibilizado sob a **MIT License**. Você pode usar, copiar,
+modificar, distribuir, sublicenciar e vender cópias do software, desde que o
+aviso de copyright e o texto da licença sejam mantidos.
 
-- uso pessoal, educacional e não comercial é permitido pela **PolyForm Strict 1.0.0**;
-- uso nas operações internas de empresas e organizações é permitido pela **PolyForm Internal Use 1.0.0**;
-- redistribuição, revenda, incorporação em outro produto ou oferta como serviço exige autorização escrita ou licença comercial;
-- os PDFs produzidos pertencem integralmente a quem os criou.
+Os PDFs produzidos com o BianKit pertencem integralmente a quem os criou.
 
 Os termos completos estão em [LICENSE.md](LICENSE.md). As bibliotecas utilizadas e suas respectivas licenças estão em [avisos de terceiros](legal/THIRD_PARTY_NOTICES.txt).
 

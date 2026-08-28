@@ -32,9 +32,9 @@
     <td valign="top"><strong>Bom para:</strong> atividades individuais e partes específicas de um PDF.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/RY0UK3N/Biankit/releases/download/v0.2.5/BianKit-Juntar-0.2.5.exe"><strong>Baixar Juntar</strong></a></td>
-    <td><a href="https://github.com/RY0UK3N/Biankit/releases/download/v0.2.5/BianKit-Organizar-0.2.5.exe"><strong>Baixar Organizar</strong></a></td>
-    <td><a href="https://github.com/RY0UK3N/Biankit/releases/download/v0.2.5/BianKit-Dividir-0.2.5.exe"><strong>Baixar Dividir</strong></a></td>
+    <td><a href="https://github.com/RY0UK3N/Biankit/releases/download/v0.2.6/BianKit-Juntar-0.2.6.exe"><strong>Baixar Juntar</strong></a></td>
+    <td><a href="https://github.com/RY0UK3N/Biankit/releases/download/v0.2.6/BianKit-Organizar-0.2.6.exe"><strong>Baixar Organizar</strong></a></td>
+    <td><a href="https://github.com/RY0UK3N/Biankit/releases/download/v0.2.6/BianKit-Dividir-0.2.6.exe"><strong>Baixar Dividir</strong></a></td>
   </tr>
 </table>
 
@@ -58,7 +58,7 @@ O BianKit foi pensado para ficar ao lado do Explorer enquanto os documentos são
 
 ## Versão atual
 
-**BianKit 0.2.5 · Windows 64 bits · Juntar, Organizar e Dividir**
+**BianKit 0.2.6 · Windows 64 bits · Juntar, Organizar e Dividir**
 
 Os três aplicativos possuem ícones próprios e testes para as operações principais. Como os executáveis ainda não têm assinatura digital de uma autoridade certificadora, o Windows pode exibir um aviso de segurança ao abri-los pela primeira vez.
 

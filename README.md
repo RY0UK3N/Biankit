@@ -64,9 +64,7 @@ Os três aplicativos possuem ícones próprios e testes para as operações prin
 
 ## Licença
 
-O BianKit é disponibilizado sob a **MIT License**. Você pode usar, copiar,
-modificar, distribuir, sublicenciar e vender cópias do software, desde que o
-aviso de copyright e o texto da licença sejam mantidos.
+O BianKit é disponibilizado sob a **MIT License**.
 
 Os PDFs produzidos com o BianKit pertencem integralmente a quem os criou.
 
